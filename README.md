@@ -1,0 +1,1 @@
+The aim of this project is to try and analyze the crime rates over the years in Chicago. Also the nature of these crimes to identify the trends and patterns of the crimes and give insights on their trends.
